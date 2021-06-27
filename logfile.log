@@ -1,0 +1,24 @@
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (C:\\Users\\HP\\Desktop\\Desktop\\NodeJs projects\\Vividly\\index.js:26:7)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-05-19T19:12:38.920Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:06:28.161Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:08:17.922Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:08:51.166Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:09:17.796Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:09:54.694Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:11:29.101Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:11:31.300Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:12:53.657Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:15:05.615Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:15:37.681Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:15:46.652Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:15:52.327Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:16:11.309Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:18:14.192Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:18:49.533Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:19:16.607Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:19:36.327Z"}
+{"level":"info","message":"listening on 5000..","timestamp":"2021-05-19T20:19:43.490Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:19:43.517Z"}
+{"level":"info","message":"listening on 5000..","timestamp":"2021-05-19T20:22:42.820Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:22:42.846Z"}
+{"level":"info","message":"listening on 5000..","timestamp":"2021-05-19T20:22:48.279Z"}
+{"level":"info","message":"Connected to Mongodb...","timestamp":"2021-05-19T20:22:48.306Z"}
